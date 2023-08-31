@@ -1,1 +1,1 @@
-this is the readme file for shell basics
+this is the project directory
